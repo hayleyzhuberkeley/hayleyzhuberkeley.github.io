@@ -203,6 +203,22 @@ a:focus-visible {
   font-weight: 600;
 }
 
+.experience-card {
+  margin-block: 1.75rem;
+  padding: clamp(1.25rem, 3vw, 2rem);
+  border: 1px solid var(--color-rule);
+  border-radius: 0.75rem;
+}
+
+.page-content .experience-card h2 {
+  margin-top: 0;
+  padding-top: 0;
+}
+
+.experience-card > :last-child {
+  margin-bottom: 0;
+}
+
 .site-footer {
   background: var(--color-surface);
   border-top: 1px solid var(--color-rule);
