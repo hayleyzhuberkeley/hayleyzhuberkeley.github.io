@@ -11,7 +11,7 @@ Create a personal portfolio for Yiying (Hayley) Zhu at `hayleyzhuberkeley.github
 - **Home:** concise introduction and links to the other pages.
 - **About:** supplied education, skills, languages, and interests.
 - **Work Experience:** supplied roles and achievement details, in reverse chronological order.
-- **Contact:** a public `mailto:hayleyzhu0103@berkeley.edu` link and a clearly labeled LinkedIn placeholder; no phone or home address.
+- **Contact:** a public `mailto:hayleyzhu0103@berkeley.edu` link and a link to Hayley's LinkedIn profile; no phone or home address.
 - Reusable Jekyll layout and header, navigation, and footer includes.
 
 ## Technical approach
@@ -23,7 +23,7 @@ Create a personal portfolio for Yiying (Hayley) Zhu at `hayleyzhuberkeley.github
 ## Content and assumptions
 
 - Use only the résumé text supplied in chat. Correct obvious text-encoding artifacts without changing its meaning; do not add achievements, employers, metrics, projects, a phone number, or a home address.
-- The LinkedIn destination is unknown, so mark it as a placeholder instead of inventing a URL.
+- Use the LinkedIn profile URL supplied by Hayley.
 - Assume the GitHub Pages user-site repository is `hayleyzhuberkeley.github.io` and the site has no custom domain.
 
 ## Verification
