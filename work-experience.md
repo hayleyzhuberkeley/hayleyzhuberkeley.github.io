@@ -15,13 +15,13 @@ permalink: /work-experience/
 
 *December 2024–August 2025*
 
-- Launched AdMax, an AI Ad Agent for ad creation, measurement, and testing. Partnered with engineering, product, and design on competitor research, more than 100 user interviews, ICP analysis, and creative A/B tests. Reached 73% adoption and 2× the user-base target; the launch was featured on Bloomberg TV.
+- Launched AdMax—the world's first AI Ad Agent for ad creation, measurement, and testing. Partnered with engineering, product, and design on competitor research, more than 100 user interviews, ICP analysis, and creative A/B tests. Reached 73% adoption and 2× the user-base target; the launch was featured on Bloomberg TV.
 - Optimized the growth funnel as Creatify scaled to $10M ARR in 18 months. Improved full-funnel ad signals and creative quality, and refined messaging through A/B tests of product benefits and target ICPs. Increased ad CTR from below 1% to 6.7%, reduced paid CAC by 34%, and reduced blended CAC by 48%.
-- Structured an influencer program by creator tier and reallocated budgets using content and budget-mix tests. Drove 4.5 million impressions, a 5× uplift on the same spend, and built a scalable UGC ad-creative pool.
+- Structured an influencer program by tiering top-, mid-, and long-tail creators and reallocating budgets using content and budget-mix tests. Drove 4.5 million impressions, a 5× uplift on the same spend, and built a scalable UGC ad-creative pool.
 
 ## Done Global
 
-*Online mental health treatment startup · San Francisco, California*
+*Online mental health treatment startup ($3B valuation; founded 2019) · San Francisco, California*
 
 ### General Manager
 
@@ -46,13 +46,13 @@ permalink: /work-experience/
 
 *October 2019–December 2022*
 
-- Built a professional networking platform for college students in major Chinese cities. Created three career and professional-development podcasts and grew them to 30,000 targeted followers in one year.
+- Built a professional networking platform for college students in major Chinese cities. Created three career and professional-development podcasts and grew them to 30,000 precision followers in one year.
 - Pitched more than 100 investors and secured $1 million in funding with two business partners in 2021. Expanded to five cities, with 10 hybrid café-bars as student hubs; achieved 95% average attendance and $3 million ARR in the first fiscal year.
 - Pivoted during pandemic disruptions and lockdowns by launching a WeChat mini-program connecting 100,000 college students with corporate professionals. Created more than 500 online networking opportunities for over 50,000 students.
 
 ## Meltwater Group China
 
-*Global SaaS company specializing in digital marketing · Shanghai, China*
+*Global SaaS company specializing in digital marketing, founded in 2001 · Shanghai, China*
 
 ### Business Development Manager
 

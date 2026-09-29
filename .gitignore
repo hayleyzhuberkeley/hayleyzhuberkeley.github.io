@@ -15,5 +15,6 @@ Thumbs.db
 # Replit working data
 .agents/
 .cache/
+.config/
 .local/
 .conversation/

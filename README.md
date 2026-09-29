@@ -6,7 +6,7 @@ This is a static Jekyll site for `https://hayleyzhuberkeley.github.io`. GitHub P
 
 - Edit `index.md`, `about.md`, `work-experience.md`, or `contact.md` to update page content. Keep the YAML front matter at the top of each page.
 - Update shared navigation, page structure, and footer in `_includes/` and `_layouts/default.html`.
-- Change colors, typography, spacing, and responsive rules in `assets/css/style.css`.
+- Change colors, typography, spacing, and responsive rules in `assets/css/portfolio.css`.
 - The LinkedIn destination on `contact.md` is intentionally a placeholder. Replace it with your profile URL before publishing.
 - Your email address is public on the Contact page. Visitors need an email app configured to use the `mailto:` link.
 

@@ -18,3 +18,5 @@ exclude:
   - PLAN.md
   - vendor
   - .bundle
+  - .config
+  - .replit
