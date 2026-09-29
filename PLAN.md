@@ -1,6 +1,6 @@
 # Portfolio Site Plan
 
-**Status: Awaiting approval — no site implementation has started.**
+**Status: Approved.**
 
 ## Site
 

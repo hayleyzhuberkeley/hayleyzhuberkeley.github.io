@@ -1,0 +1,20 @@
+title: "Yiying (Hayley) Zhu"
+description: "Portfolio of Yiying (Hayley) Zhu, covering growth and product marketing, general management, and startup experience."
+url: "https://hayleyzhuberkeley.github.io"
+baseurl: ""
+lang: en
+author:
+  name: "Yiying (Hayley) Zhu"
+github_username: hayleyzhuberkeley
+markdown: kramdown
+permalink: pretty
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - PLAN.md
+  - vendor
+  - .bundle
